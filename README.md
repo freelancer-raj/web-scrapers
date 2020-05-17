@@ -1,4 +1,4 @@
-# data-scrapers
+# web-scrapers
 Scripts to scrape data and set up web automation tasks.
 These scripts work using Selenium and Firefox.
 
